@@ -3,7 +3,7 @@
 #include <Adafruit_Sensor.h>
 #include <TinyGPS++.h>
 #include <HardwareSerial.h>
-#include <WiFi.h>  // Optional if using WiFi-based alerting
+#include <WiFi.h> 
 #include <PulseSensorPlayground.h>
 
 #define TRIG_PIN 13
